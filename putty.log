@@ -1,0 +1,9 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.03.15 17:43:18 =~=~=~=~=~=~=~=~=~=~=~=
+Event Log: Looking up host "43.204.0.58" for SSH connection
+Event Log: Connecting to 43.204.0.58 port 22
+Event Log: We claim version: SSH-2.0-PuTTY_Release_0.76
+Outgoing raw data at 2022-03-15 17:43:18
+  00000000  53 53 48 2d 32 2e 30 2d 50 75 54 54 59 5f 52 65  SSH-2.0-PuTTY_Re
+  00000010  6c 65 61 73 65 5f 30 2e 37 36 0d 0a              lease_0.76..
+Event Log: Failed to connect to 43.204.0.58: Network error: Connection timed out
+Event Log: Network error: Connection timed out
